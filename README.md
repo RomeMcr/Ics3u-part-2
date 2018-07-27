@@ -5,7 +5,7 @@ This is my final project
 
 This repo is to demonstrate how Git and Github works together for a bunch of kids who have never ever ever 
 
-##How to build
+##How to Build
 
 1. Clone the repo
 2. Run'npm install'within the repo
